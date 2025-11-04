@@ -23,10 +23,10 @@ In this lab, you will perform a forensic analysis of a Windows 2012 machine usin
 
 <p align="center">
 System Overview: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/iys4SLw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
- Server Configuration : <br/>
- <img src="https://i.imgur.com/sOpQ32k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Firewall  : <br/>
+ <img src="https://imgur.com/46pluR6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/EFGQkHt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
