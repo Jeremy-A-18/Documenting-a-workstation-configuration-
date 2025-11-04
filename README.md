@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-In this lab, you will perform a forensic analysis of a Windows 2012 machine using three commonly available tools: WinAudit, DevManView, and Frhed (Course Objective 2). You will review the forensic capabilities of each tool, using the sample files provided, to determine any clandestine threats or vulnerabilities such as viruses and malicious software. You will also recover a file that was altered to hide its native file format. You will document your findings in a forensics report. (CO 1).
+In this lab, I performed a forensic analysis of a Windows machine using three commonly available tools: WinAudit, DevManView, and Frhed. I reviewed the forensic capabilities of each tool, using the sample files provided, to determine any clandestine threats or vulnerabilities such as viruses and malicious software. I also recovered a file that was altered to hide its native file format.
 <br />
 
 
