@@ -25,18 +25,33 @@ In this lab, you will perform a forensic analysis of a Windows 2012 machine usin
 System Overview: <br/>
 <img src="https://imgur.com/iys4SLw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
- Firewall  : <br/>
+ Firewall Overview  : <br/>
  <img src="https://imgur.com/46pluR6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/EFGQkHt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  Cheking User Accounts : <br/>
+<img src="https://imgur.com/gTkoMjF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/UVrfYP7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Cheking Drives : <br/>
+<img src="https://imgur.com/Sd9kwlC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/N4k70Nh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Connected v Unconnected filters: <br/>
+<img src="https://imgur.com/nmzqPHP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/pt4z4nn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/1rOv2ok.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
   Server Fully Configured : <br/>
-<img src="https://i.imgur.com/TiP2Plu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
