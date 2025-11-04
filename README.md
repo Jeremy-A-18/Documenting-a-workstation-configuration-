@@ -39,16 +39,18 @@ System Overview: <br/>
 <br />
 <img src="https://imgur.com/1rOv2ok.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-  Server Fully Configured : <br/>
-<img src="png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  File Hashes : <br/>
+<img src="https://imgur.com/76XM1Uc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  Enviromental Viriables : <br/>
+<img src="https://imgur.com/WUYpS4t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/kz6OxRc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  Checking User Accounts : <br/>
+<img src="https://imgur.com/HXdde5o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/OboZsNF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
