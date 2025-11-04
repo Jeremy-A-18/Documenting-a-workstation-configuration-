@@ -52,8 +52,21 @@ System Overview: <br/>
 <br />
 <img src="https://imgur.com/OboZsNF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Wr1pbA4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/mTDlZnr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+   Checking Files and Hashes: <br/>
+<img src="https://imgur.com/fHrzPVq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://imgur.com/pi7v52q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://imgur.com/gOt39XY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://imgur.com/H9aUvss.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Conclusion: <br/>
+This lab taught me how to be more familiar with forencsic tools. It showed me how to compare different 
+ types of data as well as being able to investigate the properties of OS's.
+
 
