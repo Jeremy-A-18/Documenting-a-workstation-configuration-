@@ -42,7 +42,7 @@ System Overview: <br/>
   File Hashes : <br/>
 <img src="https://imgur.com/76XM1Uc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-  Enviromental Viriables : <br/>
+  Enviromental Variables : <br/>
 <img src="https://imgur.com/WUYpS4t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://imgur.com/kz6OxRc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
